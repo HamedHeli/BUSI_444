@@ -30,13 +30,5 @@ The project involved:
 4.  **Model Testing & Evaluation:** Both models were thoroughly tested for appraisal level, dispersion (compared to IAAO standards), horizontal equity, and vertical equity.
 5.  **Reporting:** An appraisal report was prepared following the "Mass Appraisal Report Outline" provided in the examination details.
 
-## Repository Structure
-*(You can customize this section based on how you've organized your files)*
-* `/report`: Contains the final appraisal report (e.g., `BUSI444_CaseStudy_Report.pdf`).
-* `/syntax`: Contains SPSS syntax files for data transformations and model calibration. [cite: 14, 160]
-* `/data`: (If you are allowed to share the raw data or subsets, otherwise omit or note that data is from the course).
-* `/output`: Key SPSS outputs, charts, and tables used in the report (often referenced from the appendix). [cite: 12, 160]
-* `README.md`: This file.
-
 ## Software
-R*
+*R*
